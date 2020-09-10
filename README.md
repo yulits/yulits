@@ -1,4 +1,4 @@
-### Hi, My name is Yuliya Klimushina. I'm a data sientist and software developer
+### Hi, I'm Yuliya. I'm a data scientist and software developer
 
 Software development is my passion. I like to learn, discover and try new things. I grow and develop myself every single day. I just don't know how else it could be! :)  
 
