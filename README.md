@@ -9,6 +9,11 @@ Software development is my passion. I like to learn, discover and try new things
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Pandas" width="26px" src="https://avatars1.githubusercontent.com/u/21206976?s=200&v=4" />
+<img align="left" alt="Scikit-learn" width="26px" src="https://avatars2.githubusercontent.com/u/365630?s=200&v=4" />
+<img align="left" alt="Matplotlib" width="26px" src="https://avatars0.githubusercontent.com/u/215947?s=200&v=4" />
+<img align="left" alt="Jupyter" width="26px" src="https://avatars1.githubusercontent.com/u/7388996?s=200&v=4" />
+<img align="left" alt="Catalyst" width="26px" src="https://avatars3.githubusercontent.com/u/46644555?s=200&v=4" />
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
