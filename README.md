@@ -36,4 +36,7 @@ To read: <a href="https://nbviewer.jupyter.org/github/yulits/usedcars_project/bl
 *and the story about how much KMeans likes a low-dimentinal feature space*  
 To read: <a href="https://nbviewer.jupyter.org/github/yulits/clustering_wines/blob/master/wine_clustering.ipynb">Clustering wines</a> To execute: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yulits/clustering_wines/master?filepath=wine_clustering.ipynb)
 
+<br />
+<br />
+
 [![Yulits's github stats](https://github-readme-stats.vercel.app/api?username=yulits&show_icons=true)](https://github.com/yulits/github-readme-stats)
