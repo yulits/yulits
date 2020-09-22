@@ -30,9 +30,7 @@ Software development is my passion. I like to learn, discover and try new things
 
 ### My projects
 
-- Used car price prediction 
+- <b>Used car price prediction</b> 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yulits/usedcars_project/master?filepath=project_used_cars_yuliya_klimushina_from_repo_eng.ipynb)
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/caltechlibrary/doi-demo-notebook/master?filepath=tccon-plotting-API.ipynb)
 
 [![Yulits's github stats](https://github-readme-stats.vercel.app/api?username=yulits&show_icons=true)](https://github.com/yulits/github-readme-stats)
