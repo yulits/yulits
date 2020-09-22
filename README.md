@@ -32,6 +32,7 @@ Software development is my passion. I like to learn, discover and try new things
 
 * **Used car price prediction**  
 To read: <a href="https://nbviewer.jupyter.org/github/yulits/usedcars_project/blob/master/project_used_cars_yuliya_klimushina_from_repo_eng.ipynb">Used car price prediction</a> To execute: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yulits/usedcars_project/master?filepath=project_used_cars_yuliya_klimushina_from_repo_eng.ipynb)
-* **Clustering wines**
+* **Clustering wines**  
+To read: <a href="https://nbviewer.jupyter.org/github/yulits/clustering_wines/blob/master/wine_clustering.ipynb">Used car price prediction</a> To execute: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yulits/clustering_wines/master?filepath=wine_clustering.ipynb)
 
 [![Yulits's github stats](https://github-readme-stats.vercel.app/api?username=yulits&show_icons=true)](https://github.com/yulits/github-readme-stats)
