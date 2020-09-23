@@ -35,6 +35,8 @@ To read: <a href="https://nbviewer.jupyter.org/github/yulits/usedcars_project/bl
 * **Clustering wines**  Comparing clustering analysis algorithms  
 *and the story about how much KMeans likes a low-dimentinal feature space*  
 To read: <a href="https://nbviewer.jupyter.org/github/yulits/clustering_wines/blob/master/wine_clustering.ipynb">Clustering wines</a> To execute: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yulits/clustering_wines/master?filepath=wine_clustering.ipynb)
+* **Plotly 3D visualization of clustering stock market**    
+To read: <a href="https://nbviewer.jupyter.org/github/yulits/clustering_stock_market/blob/master/clustering_stock_market.ipynb">Plotly 3D visualization</a> To execute: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yulits/clustering_stock_market/master?filepath=clustering_stock_market.ipynb)
 
 <br />
 <br />
