@@ -2,9 +2,7 @@
 
 Software development is my passion. I like to learn, discover and try new things. I grow and develop myself every single day. I just don't know how else it could be! :)  
 
-- I’m currently working on clustering analysis
-- I’m currently learning machine learning methods and algorithms and plotly Dash (this is a really awesome visualization framework)
-- How to reach me: yulits@gmail.com
+How to reach me: yulits@gmail.com
 
 ### Languages and Tools: 
 
